@@ -22,11 +22,21 @@ This project is an Arduino Uno-based measurement system for monitoring salt prod
 - Conductivity sensor
 - SD card module
 
+## Circuit
+
+![Circuit](Image/0.png)
+
 ## Experiment Setup
 
-![Experiment Setup](Image/1.png)
+![Experiment Setup](Image/1.jpg)
 
 The experiment setup includes an outdoor salt production site with various sensors set up around a brine pool. The scene includes an Arduino Uno connected to wind speed, temperature, humidity, water temperature, and conductivity sensors. Wires run from the sensors to the Arduino, which is housed in a protective casing. The brine pool is visible in the background with some salt crystals forming on the edges. The setup includes a small weather station and a laptop displaying real-time data charts.
+
+## Experiment 
+
+![Experiment](Image/1.1.jpg)![Experiment](Image/1.2.jpg)
+
+Measurement parts including indoor and outdoor units.
 
 ## Data Recording
 
