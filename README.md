@@ -15,12 +15,14 @@ This project is an Arduino Uno-based measurement system for monitoring salt prod
 
 ## Hardware Requirements
 
-- Arduino Uno
-- Anemometer
-- Temperature and humidity sensor
-- Water temperature sensor
-- Conductivity sensor
+- Arduino Uno 
+- Anemometer --QS-FS01
+- Temperature and humidity sensor ---DHT11
+- Water temperature sensor --- DS18B20
+- Conductivity sensor --Conductivity K 1.0 Kit
 - SD card module
+- RTC module -- DS1307
+- ACEIRMC MT3608 2A DC-DC Boost Step-Up Conversion Module
 
 ## Circuit
 
