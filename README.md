@@ -38,6 +38,7 @@ The experiment setup includes an outdoor salt production site with various senso
 
 ## Experiment 
 Measurement parts including indoor and outdoor units.
+
 <img src="Image/1.1.jpg" width="45%"> <img src="Image/1.2.2.jpg" width="45%">
 
 ## Data Recording
